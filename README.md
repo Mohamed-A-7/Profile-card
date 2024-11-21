@@ -16,18 +16,18 @@ The task was to create a responsive profile card based on the given design. The 
 
 ### Screenshot
 
-![Desktop Preview](./images/desktop-design.jpg)  
+![Desktop Preview](./desktop-design.jpg)  
 _Desktop version_
 
-![Mobile Preview](./images/mobile-design.jpg)  
+![Mobile Preview](./mobile-design.jpg)  
 _Mobile version_
 
 ---
 
 ### Links
 
-- **GitHub Repository:** [Profile Card Component](https://github.com/YourRepo/Profile-Card-Component)
-- **Live Demo:** [Check it here](https://yourliveurl.com/)
+- **GitHub Repository:** [Profile Card Component](https://github.com/Mohamed-A-7/Profile-card)
+- **Live Demo:** [Check it here](https://mohamed-a-7.github.io/Profile-card/)
 
 ---
 
